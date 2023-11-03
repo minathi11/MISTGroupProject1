@@ -1,16 +1,17 @@
-
 # Team 6 MIST 4610 Group Project 1
 
-
-## Team Name:
+# Team Name: 
 39217 Group 6
-## Team Members:
-1. David Tran [@dstudent17](https://github.com/dstudent17)
-2. Nick Kalenik [@NickKalenik](https://github.com/NickKalenik)
-3. Minathi Mekala [@minathi11](https://github.com/minathi11)
-4. Ngoc Nguyen [@ngocpn1](https://github.com/ngocpn1)
-5. Anthony Ramage [@anthonyramage](https://github.com/anthonyramage)
-6. CJ Tumlin [@CJTumlin](https://github.com/CJTumlin)
+
+# Team Members: 
+
+1. David Tran [@dstudent17](https://github.com/dstudent17/4610-Group-Project-1)
+2. Nick Kalenik [@NickKalenik](https://github.com/NickKalenik/MIST4610GroupProject1)
+3. Minathi Mekala [@minathi11](https://github.com/minathi11/MISTGroupProject1)
+4. Ngoc Nguyen [@ngocpn1](https://github.com/ngocpn1/MISTProject1)
+5. Anthony Ramage [@anthonyramage](https://github.com/anthonyramage/MIST-4610-Group-Project-1)
+6. CJ Tumlin [@CJTumlin](https://github.com/CJTumlin/MIST4610)
+
 ## Problem Description:
 Our team has been tasked to model and create a relational database for the operations of "Athens Tennis Haven", a tennis club in Athens, Georgia. The club has a complex network of relationships between club members, tennis courts, club staff, tennis equipment, etc. We plan to accurately model these relationships and populate realistic data for each entity and their attributes. With this data, we will create a series of queries to extract meaningful information from the database to make important business decisions for Athens Tennis Haven.
 ## Data Model:
